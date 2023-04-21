@@ -34,3 +34,17 @@ body {
 .body-right {
 	padding: 10px;
 }
+input {
+	border: none;
+	border-bottom: gray;
+}
+.postcard-footer {
+	text-align: center;
+}
+button {
+	background-color: blue;
+	padding: 15px;
+}
+button:hover {
+	background-color: yellowgreen;
+}
