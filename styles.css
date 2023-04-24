@@ -35,8 +35,8 @@ body {
 	padding: 10px;
 }
 input {
-	border: none;
-	border-bottom: gray;
+	width: 145px;
+	background-color: rgb(232, 232, 233);
 }
 .postcard-footer {
 	text-align: center;
